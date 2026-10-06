@@ -5,7 +5,7 @@ import java.util.Scanner;
  */
 public class Main {
 
-    public static void main(string[] args) {
+    public static void main(String[] args) {
         //Creacion del objeto Scanner
         Scanner entrada = new Scanner(System.in);
 
